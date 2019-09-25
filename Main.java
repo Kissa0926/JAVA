@@ -7,6 +7,7 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 //        String end = input.nextLine();
+        // just want to add a commit
 
         while (true) {
             System.out.println("If you want to quite please input the pw :)");
